@@ -5,6 +5,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+console.log('kevin App.vue')
 
 export default {
   name: 'App',
